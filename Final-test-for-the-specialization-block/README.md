@@ -68,7 +68,7 @@
 
 ![Лист "PackAnimals"](image/2.png)
 
-8. **ООП и Java**  ([ссылка на работу](https://github.com/olgashenkel/GeekBrains-specialization/blob/main/Final-test-for-the-specialization-block/tree/main/pet_registry/src))
+8. **ООП и Java**  ([ссылка на работу](https://github.com/olgashenkel/GeekBrains-specialization/tree/main/Final-test-for-the-specialization-block/pet_registry/src))
 
 - Создать иерархию классов в Java, который будет повторять диаграмму классов созданную в задаче 6 (Диаграмма классов).
 
