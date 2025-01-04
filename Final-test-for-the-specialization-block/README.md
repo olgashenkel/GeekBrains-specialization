@@ -10,7 +10,7 @@
 
 ## Задание
 
-### Операционные системы и виртуализация (Linux) ([ссылка на работу](https://github.com/olgashenkel/Final-test-for-the-specialization-block/blob/main/Linux.md#%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%B8-%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-linux))
+### Операционные системы и виртуализация (Linux) ([ссылка на работу](https://github.com/olgashenkel/GeekBrains-specialization/blob/main/Final-test-for-the-specialization-block/Linux.md))
 
 1. **Использование команды `cat` в Linux**
 
@@ -40,14 +40,14 @@
 
 ### Объектно-ориентированное программирование
 
-6. **Диаграмма классов ([ссылка на работу](https://github.com/olgashenkel/Final-test-for-the-specialization-block/blob/main/Class_diagram.md))**
+6. **Диаграмма классов ([ссылка на работу](https://github.com/olgashenkel/GeekBrains-specialization/blob/main/Final-test-for-the-specialization-block/Class_diagram.md))**
 
 - Создать диаграмму классов с родительским классом "Животные" и двумя подклассами "Pets" и "Pack animals".
 - В составы классов которых в случае Pets войдут классы: собаки, кошки, хомяки, а в класс Pack animals войдут: Лошади, верблюды и ослы.
 - Каждый тип животных будет характеризоваться (например, имена, даты рождения, выполняемые команды и т.д)
 - Диаграмму можно нарисовать в любом редакторе, такими как Lucidchart, Draw.io, Microsoft Visio и других.
 
-7. **Работа с MySQL. Задача выполняется в случае успешного выполнения задачи “Работа с MySQL в Linux. “Установить MySQL на вашу машину” ([ссылка на работу](https://github.com/olgashenkel/Final-test-for-the-specialization-block/blob/main/OOP_MySQL.md))**
+7. **Работа с MySQL. Задача выполняется в случае успешного выполнения задачи “Работа с MySQL в Linux. “Установить MySQL на вашу машину” ([ссылка на работу](https://github.com/olgashenkel/GeekBrains-specialization/blob/main/Final-test-for-the-specialization-block/OOP_MySQL.md))**
 
     7.1. После создания диаграммы классов в 6 пункте, в 7 пункте база данных "Human Friends" должна быть структурирована в соответствии с этой диаграммой. Например, можно создать таблицы, которые будут соответствовать классам "Pets" и "Pack animals", и в этих таблицах будут поля, которые характеризуют каждый тип животных (например, имена, даты рождения, выполняемые команды и т.д.).
 
@@ -68,7 +68,7 @@
 
 ![Лист "PackAnimals"](image/2.png)
 
-8. **ООП и Java**  ([ссылка на работу](https://github.com/olgashenkel/Final-test-for-the-specialization-block/tree/main/pet_registry/src))
+8. **ООП и Java**  ([ссылка на работу](https://github.com/olgashenkel/GeekBrains-specialization/blob/main/Final-test-for-the-specialization-block/tree/main/pet_registry/src))
 
 - Создать иерархию классов в Java, который будет повторять диаграмму классов созданную в задаче 6 (Диаграмма классов).
 
