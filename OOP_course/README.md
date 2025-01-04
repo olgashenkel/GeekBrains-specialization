@@ -1,7 +1,7 @@
 
 # **Объектно-ориентированное программирование (лекции):**
 
-1. [Урок 1. Введение в ООП. Свои типы и концепты](https://github.com/olgashenkel/GeekBrains-specialization/tree/main/OOP_course/Lesson/Lesson_1/Task_1_2_3/src)
+1. [Урок 1. Введение в ООП. Свои типы и концепты](https://github.com/olgashenkel/GeekBrains-specialization/tree/main/OOP_course/Lesson/Lesson_1)
 2. [Урок 2. Принципы ООП Абстракция и интерфейсы. Пример проектирования](https://github.com/olgashenkel/GeekBrains-specialization/tree/main/OOP_course/Lesson/Lesson_2)
 3. [Урок 3. Некоторые стандартные интерфейсы Java и примеры их использования](https://github.com/olgashenkel/GeekBrains-specialization/tree/main/OOP_course/Lesson/Lesson_3/src)
 4. [Урок 4. ООП: Обобщения](https://github.com/olgashenkel/GeekBrains-specialization/tree/main/OOP_course/Lesson/Lesson_4/src)
